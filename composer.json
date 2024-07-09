@@ -4,7 +4,6 @@
   "license": "MIT",
   "description": "WordPress starter theme with a modern development workflow",
   "scripts": {
-    //...
     "post-autoload-dump": [
       "Roots\\Acorn\\ComposerScripts::postAutoloadDump"
     ]
